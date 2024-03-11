@@ -1,1 +1,5 @@
-
+# Osnutek
+Podatke bomo črpali iz ...
+#
+Podatki so v obliki ...
+## Vprašanja na katera želimo odgovoriti:
