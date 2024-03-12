@@ -1,4 +1,4 @@
-# NASLOV
+# Analiza letalskih nesreč
 ### Člani:
 - Nik Ulajrević
 - Jernej Rednak Stana
