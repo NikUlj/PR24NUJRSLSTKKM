@@ -1,6 +1,6 @@
 # Analiza letalskih nesreč
 ### Člani:
-- Nik Ulajrević
+- Nik Uljarević
 - Jernej Rednak Stana
 - Leon Šturm
 - Tomaž Kerec
