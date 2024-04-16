@@ -8,9 +8,7 @@
 
 ### PREDSTAVITEV MNOŽICE PODATKOV 
 -----
-Mnozica podatkov s katero bomo poskusali odgovoriti na izbrana vprasanja je baza podatkov o vseh letalskih nesrečah od leta 1918 do leta 2022. Podatki so v obliki "csv" datoteke in za vsako nesrečo vsebujejo naslednje informacije:
-
-Za to množico podatkov smo se odločili, ker nam lahko poda odgovore na različna zanimiva vprašanja.
+Množica podatkov, s katero bomo poskušali odgovoriti na izbrana vprašanja, je baza podatkov o vseh letalskih nesrečah od leta 1918 do leta 2022. Za to množico podatkov smo se odločili, ker nam lahko poda odgovore na različna zanimiva vprašanja. Podatki so v obliki datotek CSV in vključujejo naslednje informacije za vsako nesrečo:
 
 | Column                 | Data Type | Opis                                 |
 |------------------------|-----------|--------------------------------------|
