@@ -10,7 +10,7 @@
 -----
 Množica podatkov, s katero bomo poskušali odgovoriti na izbrana vprašanja, je baza podatkov o vseh letalskih nesrečah od leta 1918 do leta 2022. Za to množico podatkov smo se odločili, ker nam lahko poda odgovore na različna zanimiva vprašanja. Podatki so v obliki datotek CSV in vključujejo naslednje informacije za vsako nesrečo:
 
-| Column                 | Data Type | Opis                                 |
+| Atribut                 | Podatkovni Tip | Opis                                 |
 |------------------------|-----------|--------------------------------------|
 | Date (Datum)           | Date      | Datum nesreče                        |
 | Time (Čas)             | Time    | Čas nesreče                          |
